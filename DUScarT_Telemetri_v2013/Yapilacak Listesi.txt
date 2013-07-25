@@ -1,0 +1,12 @@
+﻿splash screen resimlerini ayarla
+son tabda gelen bütün verileri gösteren listbox olsun
+ilk tabda duscart logosu olsun
+ikinci tabda en önemli kontrol göstergeleri olsun(bağlantı ledi,hız gerilim, sıcaklık)
+üçüncü tabda gps, accelemeter bilgileri olsun
+dördüncü tabda eski kayıtlar ve bu kayıtların değerlerini gösteren arayüz olsun
+max-min hızda bi gariplik var, minHız kaldır, maxHız otomatik belirlensin.
+
+Bunlarıda ekleyebilirsin: harcanan güç, şuan harcanan güç, ne kadar yol gittiği
+
+ribbon kısmı:	- Giriş menüsü: çıkış,bağlan,bağlantıyı kes,bağlantı ledi
+				- Hakkında menüsü: Hakkında, yardım, iletişim
